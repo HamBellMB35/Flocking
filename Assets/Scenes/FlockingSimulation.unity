@@ -768,7 +768,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _active: 1
   _enableRotation: 1
-  _mouseSense: 1.8
+  _mouseSense: 0.5
   _enableTranslation: 1
   _translationSpeed: 55
   _enableMovement: 1
